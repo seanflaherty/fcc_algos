@@ -203,6 +203,8 @@ cython_debug/
 #   could uncomment the following to ignore the entire vscode folder
 # .vscode/
 # Temporary file for partial code execution
+.vscode/
+.vscode/settings.json
 tempCodeRunnerFile.py
 
 # Ruff stuff:
